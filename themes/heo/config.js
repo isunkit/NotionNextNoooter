@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '电子手帐',
   HEO_HERO_TITLE_2: 'TUTORIALS',
   HEO_HERO_TITLE_3: 'All about digital planners.',
-  HEO_HERO_TITLE_4: 'Noooter教程',
+  HEO_HERO_TITLE_4: 'Noooter.com',
   HEO_HERO_TITLE_5: '一站式Get电子手帐',
   HEO_HERO_TITLE_LINK: 'https://noooter.com',
   // 英雄区遮罩文字
