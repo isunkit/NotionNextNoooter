@@ -48,8 +48,8 @@ export default function PostRecommend({ recommendPosts, siteInfo }) {
               <div className='h-full w-full relative group'>
                 <div className='relative z-10 flex items-end justify-center w-full h-full duration-300 '>
                   {/* 背景容器，高度由内容标题自动撑开 */}
-                  <div className='w-full bg-white/20 py-2'>
-                    <div className='relative z-10 text-lg px-4 font-bold text-white text-center shadow-text select-none'>
+                  <div className='w-full bg-white/50 py-1'>
+                    <div className='relative z-10 px-4 font-bold text-white text-center shadow-text select-none'>
                       {post.title}
                     </div>
                   </div>
